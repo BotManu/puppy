@@ -27,3 +27,7 @@ func From11() string {
 func From12() string {
 	return "I'm from v1.2.0"
 }
+
+func From13() string {
+	return "I'm from v1.3.0"
+}
